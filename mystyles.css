@@ -1,0 +1,49 @@
+#bio {
+  font-family: Courier New;
+}
+
+#Sanasani {
+  font-family: Courier New;
+}
+#dancers {
+  font-family: Courier New;
+}
+body {
+  background-color: pink;
+}
+#all {
+  float:right
+}
+#me {
+  max-width:500px;
+  height:200px;
+  float: left
+}
+#name {
+  float: right;
+  font-size: 100px;
+  position: -50px;
+}
+#nat {
+    max-width:500px;
+    height:500px;
+}
+
+#adv {
+    max-width:400px;
+    height:300px;
+}
+
+#int {
+    max-width:400px;
+    height:300px;
+}
+
+#beg {
+    max-width:400px;
+    height:300px;
+}
+#Akash {
+  max-width: 500px;
+  height: 300px;
+}
